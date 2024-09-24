@@ -1,0 +1,59 @@
+.footer{
+    color: rgb(88, 88, 88);
+}
+
+.Never_submit{
+    text-align: left;
+    font-size: 12px;
+}
+
+.report{
+    text-align:center;
+    font-size: 12px;
+}
+.report span{
+    text-decoration: underline;
+}
+
+.Google-form{
+    text-align: center;
+    font-size: 20px;
+}
+
+.Google-form span{
+    font-weight: 600;
+}
+
+.footer .button{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .button .submit{
+    background: purple;
+    color: white;
+    font-size: 13px;
+    width: 100px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.footer .button .submit:hover{
+    background: rgb(148, 47, 148);
+}
+
+.footer .button button{
+    background: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 13px;
+    border: none;
+    color: purple;
+    font-weight: 600;
+}
+
+.footer .button button:hover{
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}

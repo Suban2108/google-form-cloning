@@ -1,0 +1,41 @@
+.box3{
+    border: 1px solid rgb(200, 200, 200);
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px;
+    padding-right: 30px;
+  background: white !important;
+}
+
+.checkbox-item {
+    margin-bottom: 10px;
+  }
+  
+  .checkbox-item label {
+    margin-left: 8px;
+  }
+  
+.box3 span{
+    color: red;
+}
+
+.box3 .hr{
+    width: 20vw !important;
+    height: 1px !important;
+    background: rgb(125, 125, 125);
+    position: relative;
+    right: -69px;
+}
+
+.box3 input.others-input{
+    width: 20vw;
+    border: none;
+    position: relative;
+    outline: none;
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.box3 .other{
+    margin-right: 5px;
+}

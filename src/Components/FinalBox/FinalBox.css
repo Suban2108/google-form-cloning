@@ -1,0 +1,26 @@
+.final-box span{
+    color: red;
+}
+
+.final-box{
+    border: 1px solid rgb(200, 200, 200);
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px;
+    padding-right: 30px;
+  background: white !important;
+}
+
+.final-box input{
+    width: 20vw;
+    border: none;
+    position: relative;
+    outline: none;
+    font-size: 15px;
+}
+
+.final-box .hr{
+    width: 40vw !important;
+    height: 1px !important;
+    background: rgb(125, 125, 125);
+}

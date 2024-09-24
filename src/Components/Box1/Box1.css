@@ -1,0 +1,85 @@
+.box1{
+    border: 1px solid rgb(187, 187, 187);
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px;
+    border-top: 12px solid purple;
+    padding-right: 30px;
+    background: white !important;
+}
+
+
+.box1 p{
+    font-size: 14px;
+    color: rgb(76, 75, 75);
+}
+
+.box1 h1{
+    font-weight: 500;
+    font-size: 30px !important;
+}
+
+.box1 .th{
+    font-weight: 800;
+    font-size: 13px !important;
+}
+
+.box1 hr{
+    width: 45vw;
+    position: relative;
+    left: -20px;
+}
+
+.box1 .main{
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.box1 .main span{
+    text-decoration: underline;
+    color: blue;
+}
+
+.box1 .main .last-line{
+    text-decoration: none;
+    font-family: 100;
+    color: rgb(158, 158, 158);
+}
+
+.box .main{
+    font-weight: 800;
+}
+
+.mail p{
+    color: blue;
+    font-size: 15px;
+}
+
+.mail span.mail-text{
+    font-weight: 700;
+    color: rgb(91, 87, 87);
+}
+
+.mail{
+    display: flex;
+    justify-content:space-between;
+}
+
+.mail img{
+    width: 40px;
+    height: 30px;
+}
+
+.box1 .not_shared img{
+    width: 30px;
+    height: 30px;
+}
+
+.box1 .not_shared{
+    position: relative;
+    top: -5px;
+}
+
+.box1 .ind{
+    color: red;
+}

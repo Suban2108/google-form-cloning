@@ -1,0 +1,29 @@
+.box7 span{
+    color: red;
+}
+
+.box7{
+    border: 1px solid rgb(200, 200, 200);
+    text-align: left;
+    border-radius: 10px;
+    padding: 20px;
+    padding-right: 30px;
+  background: white !important;
+  justify-content: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.box7 .hr{
+    width: 20vw !important;
+    height: 1px !important;
+    background: rgb(125, 125, 125);
+}
+
+.box7 .radio{
+    justify-content: left;
+    display: flex;
+    text-align: left;
+    width: 100px;
+    column-gap: 20px;
+}
